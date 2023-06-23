@@ -11,12 +11,6 @@ This repository presents a new dataset benchmark in the field of electricity. We
   - Dimension Insights
 <img width="820" alt="image" src="https://github.com/anonymousxx23/pole-detection/assets/135847537/9766ea74-9b34-42c5-ac6f-b76330118d10">
 
-  - Annotation Heatmap
-<img width="418" alt="image" src="https://github.com/anonymousxx23/pole-detection/assets/135847537/7efd0789-2d13-4e7a-943d-56b6890d4c61">
-
-  - Histogram of object
-<img width="478" alt="image" src="https://github.com/anonymousxx23/pole-detection/assets/135847537/9c4b5bf7-889a-468d-88fd-8214813a9cc5">
-
   - Object Statistics
 <img width="301" alt="image" src="https://github.com/anonymousxx23/pole-detection/assets/135847537/23eca2f9-3b37-4d75-a958-5576fa8b9e45">
 
